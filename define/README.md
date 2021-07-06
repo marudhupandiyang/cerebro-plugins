@@ -1,0 +1,2 @@
+- Inital credits to https://github.com/glja021/cerebro-define
+- Dictionary API at
